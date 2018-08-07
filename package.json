@@ -1,0 +1,28 @@
+{
+  "name": "ccc",
+  "version": "1.0.0",
+  "description": "it's a concept",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo 'under development'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csimtheuser/ccc.git"
+  },
+  "keywords": [
+    "ccc"
+  ],
+  "author": "csimtheuser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csimtheuser/ccc/issues"
+  },
+  "homepage": "https://github.com/csimtheuser/ccc#readme",
+  "dependencies": {
+    "foundation-sites": "^6.5.0-rc.2"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.1.5"
+  }
+}
